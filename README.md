@@ -104,61 +104,51 @@ I enjoy designing clean architectures, solving complex backend problems, and bui
 
 ## 📌 Media Network CMS
 
-Multi-tenant Enterprise CMS built with Payload CMS.
+Multi-tenant Enterprise CMS built with **Payload CMS** for managing multiple websites from a single platform.
 
-### Features
-
-- Multi Site Support
-- RBAC
-- Category & Tag Management
-- Author Management
-- Media Library
-- Articles
-- Menu Builder
-- Magazine Module
+<p align="left">
+<img src="https://img.shields.io/badge/Multi_Site-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/RBAC-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Categories_&_Tags-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Author_Management-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Media_Library-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Articles-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Menu_Builder-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Magazine_Module-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+</p>
 
 ---
 
 ## 📌 Plugio
 
-Instagram Automation Platform
+Instagram Automation Platform built with **Spring Boot** for automating engagement workflows.
 
-Features
-
-- Auto DM
-- Comment Automation
-- Webhooks
-- Queue Processing
-- Redis
-- Spring Boot Backend
-- Analytics Dashboard
+<p align="left">
+<img src="https://img.shields.io/badge/Auto_DM-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Comment_Automation-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Webhooks-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Redis_Queue-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Analytics-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Rule_Engine-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Spring_Boot-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/MySQL-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+</p>
 
 ---
 
 ## 📌 Foodrestro
 
-AI-powered Food Delivery Platform.
+AI-powered food delivery platform designed for local restaurants and customers.
 
-- Local Business Support
-- Restaurant Management
-- Order Management
-- Delivery System
-- Modern UI
-
----
-
-## 📌 Inventory Management
-
-Inventory Management System for Retail Stores.
-
-Features
-
-- Barcode Support
-- Sales
-- Purchase
-- Stock Management
-- Reports
-- Dashboard
+<p align="left">
+<img src="https://img.shields.io/badge/Restaurant_Management-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Order_Management-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Delivery_Management-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/AI_Recommendations-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Local_Business-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Modern_UI-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Real_Time_Tracking-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+</p>
 
 ---
 
@@ -171,36 +161,6 @@ Features
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=427rohitkumar&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- Java
-- Spring Boot
-- Microservices
-- System Design
-- Distributed Systems
-- High Performance APIs
-- Scalable SaaS Architecture
-
----
-
-## 💼 Interests
-
-- Backend Engineering
-- System Design
-- Distributed Systems
-- SaaS Development
-- AI-powered Applications
-- Cloud-native Architecture
 
 # 📫 Connect With Me
 

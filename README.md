@@ -18,8 +18,6 @@
 
 Backend Engineer focused on building scalable SaaS applications, distributed systems, and high-performance APIs.
 
-I enjoy designing clean architectures, solving complex backend problems, and building production-ready software using Java, Spring Boot, Next.js, and modern cloud technologies.
-
 - 💻 Backend Developer (Java & Spring Boot)
 - 🌱 Currently learning Advanced System Design & Microservices
 - ⚡ Passionate about Clean Architecture
@@ -160,20 +158,6 @@ AI-powered food delivery platform designed for local restaurants and customers.
 </p>
 
 ---
-
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/427rohitkumar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<!-- Add your LinkedIn -->
-<!-- Add your Portfolio -->
-
-
 
 
 ---

@@ -16,7 +16,9 @@
 
 ## 🚀 About Me
 
-I'm a Backend & Full Stack Developer passionate about building scalable web applications and SaaS products.
+Backend Engineer focused on building scalable SaaS applications, distributed systems, and high-performance APIs.
+
+I enjoy designing clean architectures, solving complex backend problems, and building production-ready software using Java, Spring Boot, Next.js, and modern cloud technologies.
 
 - 💻 Backend Developer (Java & Spring Boot)
 - 🌱 Currently learning Advanced System Design & Microservices
@@ -27,6 +29,9 @@ I'm a Backend & Full Stack Developer passionate about building scalable web appl
 ---
 
 # 🛠 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,nestjs,laravel,python,postgres,mongodb,mysql,redis,docker,git,linux&perline=14" />
+</p>
 
 ## Languages
 
@@ -35,6 +40,8 @@ I'm a Backend & Full Stack Developer passionate about building scalable web appl
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
 
 ---
 
@@ -72,20 +79,24 @@ I'm a Backend & Full Stack Developer passionate about building scalable web appl
 
 ---
 
-## Concepts
+## 🧠 Concepts
 
-- REST API
-- JWT Authentication
-- OAuth
-- RBAC
-- Clean Architecture
-- Microservices
-- System Design
-- Queue Systems
-- Caching
-- Docker Deployment
-- CI/CD
-- SaaS Architecture
+<p align="left">
+
+<img src="https://img.shields.io/badge/REST_API-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/JWT_Authentication-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/OAuth-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/RBAC-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Clean_Architecture-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Microservices-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/System_Design-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Queue_Systems-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Caching-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/Docker_Deployment-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/CI/CD-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+<img src="https://img.shields.io/badge/SaaS_Architecture-2D2A26?style=flat&labelColor=2D2A26&color=2D2A26" />
+
+</p>
 
 ---
 
@@ -151,30 +162,11 @@ Features
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=427rohitkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=427rohitkumar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=427rohitkumar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=427rohitkumar&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=427rohitkumar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=427rohitkumar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -201,6 +193,15 @@ Features
 
 ---
 
+## 💼 Interests
+
+- Backend Engineering
+- System Design
+- Distributed Systems
+- SaaS Development
+- AI-powered Applications
+- Cloud-native Architecture
+
 # 📫 Connect With Me
 
 <p align="left">
@@ -212,12 +213,20 @@ Features
 <!-- Add your LinkedIn -->
 <!-- Add your Portfolio -->
 
-</p>
+
+
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+Building scalable software, one commit at a time.
+</p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=427rohitkumar&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </p>
